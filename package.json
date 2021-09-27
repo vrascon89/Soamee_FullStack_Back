@@ -1,0 +1,23 @@
+{
+  "name": "soamee_back",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vrascon89/Soamee_FullStack_Back.git"
+  },
+  "author": "Victor Rascon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrascon89/Soamee_FullStack_Back/issues"
+  },
+  "homepage": "https://github.com/vrascon89/Soamee_FullStack_Back#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
